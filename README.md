@@ -4,10 +4,10 @@ THIS BATCH FILE WILL:
 1) Pull data from the FAA NASR site and create Sector
    Files (.SCT) for virtual Radar Clients such as
    VRC by MetaCraft. As of now, it will create ALL:
-   -Fixes
-   -Airports
-   -NAVAIDs
-   -Airways
+      Fixes
+      Airports
+      NAVAIDs
+      Airways
 
 2) When appropriate, it will also create an In-Scope
    Reference (ISR) alias (.TXT) file for the data parsed.
