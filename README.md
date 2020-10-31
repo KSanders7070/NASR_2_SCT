@@ -24,10 +24,6 @@ NOTES:
    Factors such as individual computer performance
    come into play with the duration of this process.
 
- - If your selected "Project Folder" already has previously
-   output files in it, be sure to remove these or rename
-   them prior to running the BATCH File again.
-
 
 KNOWN ISSUES:
 
@@ -50,3 +46,7 @@ REQUIREMENTS:
  - This BATCH File Requires Powershell v3 or higher. v5.1 or later is recommended.
    You may update Powershell by downloading the Windows Management Framework:
    https://www.microsoft.com/en-us/download/details.aspx?id=54616echo.
+
+ - If your selected "Project Folder" already has previously
+   output files in it, be sure to remove these or rename
+   them prior to running the BATCH File again.
