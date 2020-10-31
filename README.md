@@ -24,6 +24,9 @@ NOTES:
    Factors such as individual computer performance
    come into play with the duration of this process.
 
+ - The Airways process takes a significantly longer
+   amount of time to complete than the other processes.
+
 
 KNOWN ISSUES:
 
