@@ -3,7 +3,7 @@ THIS BATCH FILE WILL:
 
 1) Pull data from the FAA NASR site and create Sector
    Files (.SCT) for virtual Radar Clients such as
-   VRC by MetaCraft. As of now, it will create ALL: Fixes, Airports, NAVAIDs, & Airways.
+   VRC by MetaCraft. As of now, it will create ALL: Weather Stations, Fixes, Airports, NAVAIDs, & Airways.
 
 2) When appropriate, it will also create an In-Scope
    Reference (ISR) alias (.TXT) file for the data parsed.
@@ -26,6 +26,9 @@ NOTES:
 
  - The Airways process takes a significantly longer
    amount of time to complete than the other processes.
+
+ - Due to limitations of .BAT files, Weather Stations will appear
+   anywhere between 0.1 to 2.0 miles offset.
 
 
 KNOWN ISSUES:
