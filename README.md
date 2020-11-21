@@ -28,7 +28,7 @@ NOTES:
    amount of time to complete than the other processes.
 
  - Due to limitations of .BAT files, Weather Stations will appear
-   anywhere between 0.1 to 2.0 miles offset.
+   anywhere between 0.1 to 2.0 miles offset. Only stations that corrispond with an airport will be shown.
 
 
 KNOWN ISSUES:
