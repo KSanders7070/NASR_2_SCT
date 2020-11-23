@@ -38,13 +38,6 @@ KNOWN ISSUES:
    In this case, the clients like VRC will only pick up and
    display the first command that it finds which may not always be
    the NAVAID you were wanting. This is rare.
-   
- - If the longitude has an "East" designation, VRC will draw these
-   points on the right side of the display due to a limitation with
-   how VRC handles points to the left of the Antimeridian Line (W/E 180.00.00.000).
-   We have developed a converter to allow these points to be
-   repositioned to the left side of the display by "Tricking" VRC
-   but the full implementation for this process is a WIP.
 
 
 REQUIREMENTS:
